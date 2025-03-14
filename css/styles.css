@@ -1,9 +1,5 @@
 /* ----------------------------GENERAL------------------- */
 
-/* * {
-  box-sizing: border-box;
-} */
-
 body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -67,9 +63,7 @@ button {
 
 /* --------------------------HEADER------------------------ */
 
-/* .header-logo {
-  margin-right: 76px;
-} */
+/* .header-logo {} */
 
 .nav-link {
   font-weight: 500;
@@ -214,6 +208,4 @@ button {
   color: #f4f4fd;
 }
 
-/* .footer-logo {
-  margin-bottom: 16px;
-} */
+/* .footer-logo {} */
